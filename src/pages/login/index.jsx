@@ -118,7 +118,7 @@ const Login = () => {
                 >
                   Log in
                 </button>
-                <p style={{ fontSize: "14px", textAlign: "center", marginTop: "8px" }}>Don't have an account?
+                <p style={{ fontSize: "14px", textAlign: "center", marginTop: "8px" }}>{`Don't have an account?`}
                   <Link href="/">Sign Up</Link>
                 </p>
               </div>
